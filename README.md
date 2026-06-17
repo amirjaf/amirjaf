@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @amirjaf
-- I am Transportation Modeler/Analyst at Delaware Valley Regional Planning Commission (DVRPC)
+- I am a Transportation Model Developer at Delaware Valley Regional Planning Commission (DVRPC)
 - This account is designated for DVRPC.
